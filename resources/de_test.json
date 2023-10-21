@@ -1,3 +1,10 @@
-﻿{
-  "introduction-one": "Das ist eine Begrüßung in Deutsch!"
-}
+﻿[
+  {
+    "id": "introduction-one",
+    "content": "Eine Einführung in Deutsch"
+  },
+  {
+    "id": "introduction-two",
+    "content": "Noch ein anderer Satz auf Deutsch"
+  }
+]

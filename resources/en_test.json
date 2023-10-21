@@ -1,3 +1,10 @@
-﻿{
-  "introduction-one": "This is an introduction in English!"
-}
+﻿[
+  {
+    "id": "introduction-one",
+    "content": "This is an introduction in English!"
+  },
+  {
+    "id": "introduction-two",
+    "content": "This is another introduction in English"
+  }
+]
