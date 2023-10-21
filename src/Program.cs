@@ -2,6 +2,7 @@
 
 public static class Program
 {
+    // A Dictionary that holds the Content by the Language
     // Key : Language in format -> de, en, es, fr
     // Value: The parsed Content
     private static Dictionary<string, string> content = new Dictionary<string, string>();
