@@ -1,6 +1,6 @@
 ﻿namespace LocalisationSystem;
 
-public class Program
+public static class Program
 {
     // Key : Language in format -> de, en, es, fr
     // Value: The parsed Content
@@ -31,7 +31,7 @@ public class Program
             }
         }
 
-        Console.WriteLine(FileManager.GetLine(content["de"], "introduction-one"));
+        OutputManager.Write(LocalisationManager.GetLine(content["en"], "introduction-one")?.Content);
         Console.ReadKey(true);
     }
 }
