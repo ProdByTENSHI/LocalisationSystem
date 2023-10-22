@@ -1,0 +1,4 @@
+[23.10.2023 00:26] : Loaded Language Pack for en
+[23.10.2023 00:26] : Loaded Language Pack for de
+[23.10.2023 00:26] : Loaded Language Pack for fr
+[23.10.2023 00:26] : Set the preffered Language to fr
